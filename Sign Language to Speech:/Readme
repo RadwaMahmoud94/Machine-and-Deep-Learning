@@ -1,1 +1,4 @@
-
+The data set is a collection of images of alphabets from the American Sign Language, separated 
+in 29 folders which represent the various classes.
+I used 3 different classifiers (SVM , KNN and decesion tree) to classify the 29 classes
+I used different input for training (RGB , GREY Binary)
